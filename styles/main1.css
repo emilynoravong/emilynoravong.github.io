@@ -8,7 +8,7 @@ body {
     background-color: white;
     margin: 15px auto;
     padding: 15px 1.5em; 
-    border: 1px solid blue;
+    border: 1px solid maroon;
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
     background-image: url("../images/sakura.jpeg");
@@ -42,7 +42,7 @@ main {
 }
 main h3{
     margin: 3em 2em 1.5em;
-    border: 5px double blue;
+    border: 5px double maroon;
 
     padding: 1em;
     font-size: 105%;
