@@ -8,10 +8,10 @@ body {
     background-color: white;
     margin: 15px auto;
     padding: 15px 1.5em; 
-    border: 1px solid maroon;
+    border: 1px solid rgb(196, 104, 184);
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
-    background-image: url("../images/sakura.jpeg");
+    background-image: url("../images/sakurar2.png");
     background-position: right;
     background-repeat: repeat-y;
     background-attachment: fixed;
@@ -23,26 +23,26 @@ a:focus, a:hover {
 }
 header h1 {
     font-size: 175%; 
-    color: maroon;
+    color: rgb(196, 104, 184);
     text-indent: 30px;
 }
 header h2 {
     font-size: 130%;
-    color: #800000;
+    color: #e47cdd;
     text-indent: 30px;
 }
 header img {
     float: left;
 }
 .shadow {
-    text-shadow: 2px 2px 2px rgb(128, 0, 0);
+    text-shadow: 2px 2px 2px rgb(176, 77, 171);
 }
 main {
     clear: left;
 }
 main h3{
     margin: 3em 2em 1.5em;
-    border: 5px double maroon;
+    border: 5px double rgb(211, 89, 189);
 
     padding: 1em;
     font-size: 105%;
