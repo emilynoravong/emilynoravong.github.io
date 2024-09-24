@@ -8,9 +8,12 @@ body {
     background-color: white;
     margin: 15px auto;
     padding: 15px 1.5em; 
-    border: 1px solid pink;
+    border: 1px solid blue;
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
+    background-image: url("../images/sakura.jpeg");
+    background-repeat: repeat-y;
+    
 }
 a:focus, a:hover {
     font-style: italic;
@@ -36,7 +39,10 @@ main {
     clear: left;
 }
 main h3{
-    margin-top: 3em;
+    margin: 3em 2em 1.5em;
+    border: 5px double blue;
+
+    padding: 1em;
     font-size: 105%;
 }
 #list {
