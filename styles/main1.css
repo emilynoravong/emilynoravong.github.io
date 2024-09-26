@@ -42,10 +42,10 @@ main {
 }
 main h3{
     margin: 3em 2em 1.5em;
+    padding: 1em;
     border: 5px double rgb(211, 89, 189);
     border-radius: 20px;
     box-shadow: 3px 3px 4px 4px red;
-    padding: 1em;
     font-size: 105%;
 }
 #list {
