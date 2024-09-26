@@ -56,6 +56,14 @@ main nav{
     box-shadow: 3px 3px 4px 4px rgb(182, 86, 154);
     font-size: 105%;
 }
+main div{
+    margin: 1.5em 2em 0em;
+    padding: 1em;
+    border: 5px dotted rgb(211, 89, 189);
+    border-radius: 20px;
+    box-shadow: 3px 3px 4px 4px rgb(182, 86, 154);
+    font-size: 105%;
+}
 #list {
     line-height: 1.5em;
 }
