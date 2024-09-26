@@ -45,7 +45,7 @@ main h3{
     padding: 1em;
     border: 5px double rgb(211, 89, 189);
     border-radius: 20px;
-    box-shadow: 3px 3px 4px 4px red;
+    box-shadow: 3px 3px 4px 4px rgb(182, 86, 154);
     font-size: 105%;
 }
 #list {
