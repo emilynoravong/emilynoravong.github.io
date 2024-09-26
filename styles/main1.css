@@ -48,6 +48,13 @@ main h3{
     box-shadow: 3px 3px 4px 4px rgb(182, 86, 154);
     font-size: 105%;
 }
+main nav{
+    margin: 1.5em 2em 1.5em;
+    padding: 0.5em;
+    border: 5px dashed rgb(211, 89, 189);
+    border-radius: 20px;
+    box-shadow: 3px 3px 4px 4px rgb(182, 86, 154);
+}
 #list {
     line-height: 1.5em;
 }
