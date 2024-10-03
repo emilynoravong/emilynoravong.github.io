@@ -8,24 +8,24 @@ body {
     background-color: white;
     margin: 15px auto;
     padding: 15px 1.5em; 
-    border: 1px solid rgb(196, 104, 184);
+    border: 1px solid darkblue;
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
 }
 a:focus, a:hover {
     font-style: italic;
-    color: rgb(196, 104, 184);
-    border: 3px pink
+    color: darkblue;
+    border: 3px #a6a6fc
     border-style: dotted solid;
 }
 header h1 {
     font-size: 175%; 
-    color: rgb(196, 104, 184);
+    color: blueviolet;
     text-indent: 30px;
 }
 header h2 {
     font-size: 130%;
-    color: #e47cdd;
+    color: blueviolet;
     text-indent: 30px;
 }
 header img {
@@ -33,14 +33,14 @@ header img {
     margin-left: 2em;
 }
 .shadow {
-    text-shadow: 2px 2px 2px rgb(176, 77, 171);
+    text-shadow: 2px 2px 2px darkblue;
 }
 article {
     clear: left;
     width: 70%;
     float: left;
     column-count: 2;
-    column-rule: 2px dotted rgb(176, 77, 171);
+    column-rule: 2px dotted darkblue;
     column-gap: 2em;
     margin-left: 2em;
 }
@@ -56,7 +56,7 @@ article p::first-letter {
     font-size: 3em;
     font-weight: bold;
     font-style: italic;
-    color: lightpink;
+    color: blue;
 }
 aside {
     width: 20%;
@@ -66,5 +66,5 @@ aside {
 }
 footer {
     clear: both;
-    border-top: 2px solid pink;
+    border-top: 2px solid darkblue;
 }
