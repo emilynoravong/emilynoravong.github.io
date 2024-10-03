@@ -8,7 +8,7 @@ body {
     background-color: white;
     margin: 15px auto;
     padding: 15px 1.5em; 
-    border: 1px solid darkblue;
+    border: 1px solid darkslateblue;
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
 }
@@ -61,7 +61,7 @@ article p::first-letter {
 aside {
     width: 20%;
     float: right;
-    background: rgb(153, 172, 247);
+    background: rgb(189, 201, 248);
     
 }
 footer {
