@@ -35,12 +35,12 @@ header img {
 .shadow {
     text-shadow: 2px 2px 2px rgb(176, 77, 171);
 }
-artcle {
+article {
     clear: left;
     width: 70%;
     float: left;
     column-count: 2;
-    column-rule: 2px dotted pink;
+    column-rule: 2px dotted rgb(176, 77, 171);
     column-gap: 2em;
     margin-left: 2em;
 }
@@ -61,8 +61,8 @@ article p::first-letter {
 aside {
     width: 20%;
     float: right;
-    background: lightpink;
-    padding!!
+    background: #f8d6f6;
+    
 }
 footer {
     clear: both;
