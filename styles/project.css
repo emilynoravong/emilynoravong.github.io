@@ -1,5 +1,5 @@
 html {
-    background-image: linear-gradient(to left, white 0%, blueviolet 100%);
+    background-image: linear-gradient(to left, white 0%, rgb(153, 172, 247) 100%);
 }
 body {
     font-family: Arial, Helvetica, sans-serif;
@@ -14,18 +14,18 @@ body {
 }
 a:focus, a:hover {
     font-style: italic;
-    color: darkblue;
-    border: 3px #a6a6fc
+    color: darkslateblue;
+    border: 3px darkslateblue
     border-style: dotted solid;
 }
 header h1 {
     font-size: 175%; 
-    color: blueviolet;
+    color: darkslateblue;
     text-indent: 30px;
 }
 header h2 {
     font-size: 130%;
-    color: blueviolet;
+    color: darkslateblue;
     text-indent: 30px;
 }
 header img {
@@ -61,7 +61,7 @@ article p::first-letter {
 aside {
     width: 20%;
     float: right;
-    background: blueviolet;
+    background: rgb(153, 172, 247);
     
 }
 footer {
