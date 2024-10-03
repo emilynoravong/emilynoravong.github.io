@@ -14,7 +14,7 @@ body {
 }
 a:focus, a:hover {
     font-style: italic;
-    color: pink;
+    color: rgb(196, 104, 184);
     border: 3px pink
     border-style: dotted solid;
 }
@@ -56,7 +56,7 @@ article p::first-letter {
     font-size: 3em;
     font-weight: bold;
     font-style: italic;
-    color: darkmagenta;
+    color: lightpink;
 }
 aside {
     width: 20%;
