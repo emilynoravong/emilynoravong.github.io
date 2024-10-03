@@ -33,14 +33,14 @@ header img {
     margin-left: 2em;
 }
 .shadow {
-    text-shadow: 2px 2px 2px darkblue;
+    text-shadow: 2px 2px 2px darkslateblue;
 }
 article {
     clear: left;
     width: 70%;
     float: left;
     column-count: 2;
-    column-rule: 2px dotted darkblue;
+    column-rule: 2px dotted darkslateblue;
     column-gap: 2em;
     margin-left: 2em;
 }
@@ -56,7 +56,7 @@ article p::first-letter {
     font-size: 3em;
     font-weight: bold;
     font-style: italic;
-    color: blue;
+    color: darkslateblue;
 }
 aside {
     width: 20%;
@@ -66,5 +66,5 @@ aside {
 }
 footer {
     clear: both;
-    border-top: 2px solid darkblue;
+    border-top: 2px solid darkslateblue;
 }
