@@ -19,7 +19,10 @@ a:focus, a:hover {
     border-style: dotted solid;
 }
 header{
-    border-bottom: 2px solid darkslateblue;;
+    border: 2px solid darkslateblue;
+}
+h2 {
+    padding: 1em;
 }
 header h1 {
     font-size: 175%; 
