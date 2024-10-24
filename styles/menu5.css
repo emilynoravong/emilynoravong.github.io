@@ -24,10 +24,6 @@ list-style-type: square;
 #nav_menu ul li a.current {
     color: yellow;
 }
-h1, h2{
-    margin-left: 20px;
-    margin-top: 20px;
-}
-#nav_menu {
-    margin-bottom: 20px;
+article h1 {
+    padding-top: 50px
 }
