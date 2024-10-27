@@ -32,9 +32,6 @@ a:focus, a:hover {
     border: 3px darkslateblue;
     border-style: dotted solid;
 }
-header{
-    border-bottom: 2px solid darkslateblue;
-}
 h2 {
     padding: 1em;
 }
