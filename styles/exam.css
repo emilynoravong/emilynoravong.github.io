@@ -14,7 +14,6 @@
     color: white;
     font-weight: bold;
     border-right: 2px solid white;
-    padding-bottom: 50px;
 }
 #nav_menu ul li a.current {
     color: yellow;
