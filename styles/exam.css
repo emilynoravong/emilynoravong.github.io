@@ -19,6 +19,7 @@
     color: yellow;
 }
 header{
+    padding-bottom: 1em;
     border-top: 2px solid darkblue;
 }
 article {
