@@ -18,6 +18,9 @@
 #nav_menu ul li a.current {
     color: yellow;
 }
+header{
+    border-top: 2px solid darkblue;
+}
 article {
     clear: left;
     width: 70%;
