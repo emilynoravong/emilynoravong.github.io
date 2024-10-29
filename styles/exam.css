@@ -50,6 +50,7 @@ aside {
     background: rgb(189, 201, 248);
     padding-left: 10px;
     padding-bottom: 3px;
+    border: 3px solid darkblue;
 }
 body {
     font-family: Arial, Helvetica, sans-serif;
