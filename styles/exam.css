@@ -40,6 +40,10 @@ article {
 article h1 {
     padding-top: 30px;
 }
+article h2 {
+    margin-top: 1em;
+    margin-left: 0;
+}
 article h3 {
     column-span: all;
 }
