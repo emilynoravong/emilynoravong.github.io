@@ -65,9 +65,9 @@ body {
     padding: 15px 1.5em; 
 }
 header h1 {
-    padding-top: 2em;
     margin-top: 0;
     border-top: 2px solid darkblue;
+    padding-top: 2em;
 }
 a:focus, a:hover {
     font-style: italic;
