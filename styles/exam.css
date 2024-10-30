@@ -31,11 +31,6 @@ article {
 article h1 {
     padding-top: 30px;
 }
-article h2 {
-    column-span: all;
-    margin-top: 0;
-    margin-bottom: 0.5em;
-}
 article h3 {
     column-span: all;
 }
@@ -49,10 +44,6 @@ article p::first-letter {
     font-weight: bold;
     font-style: italic;
     color: darkslateblue;
-}
-article p {
-    margin-top: 0;
-    padding-top 0;
 }
 aside {
     width: 20%;
