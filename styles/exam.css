@@ -30,7 +30,7 @@ header {
 }
 article {
     clear: left;
-    width: 70%;
+    width: 75%;
     float: left;
     column-count: 3;
     column-rule: 4px dashed darkblue;
@@ -85,4 +85,11 @@ a:focus, a:hover {
     color: darkslateblue;
     border: 3px darkslateblue;
     border-style: dotted solid;
+}
+footer {
+    clear: both;
+    border-top: 2px solid darkslateblue;
+}
+footer p{
+    text-align: center;
 }
