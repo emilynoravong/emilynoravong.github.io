@@ -61,7 +61,7 @@ body {
     margin: 15px auto;
     padding: 15px 1.5em; 
 }
-header {
+header h1 {
     padding-bottom: 1em;
     border-bottom: 2px solid darkblue;
 }
