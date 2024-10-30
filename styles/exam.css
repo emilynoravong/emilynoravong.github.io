@@ -23,7 +23,7 @@ article {
     width: 70%;
     float: left;
     column-count: 3;
-    column-rule: 5px dashed darkblue;
+    column-rule: 3px dashed darkblue;
     column-gap: 2em;
     margin-left: 2em;
 }
