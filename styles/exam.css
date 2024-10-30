@@ -63,7 +63,7 @@ body {
 }
 header h1 {
     padding-bottom: 1em;
-    border-bottom: 2px solid darkblue;
+    border-top: 2px solid darkblue;
 }
 a:focus, a:hover {
     font-style: italic;
