@@ -62,7 +62,7 @@ body {
 }
 header {
     padding-bottom: 1em;
-    border-top: 2px solid darkblue;
+    border-bottom: 2px solid darkblue;
 }
 a:focus, a:hover {
     font-style: italic;
