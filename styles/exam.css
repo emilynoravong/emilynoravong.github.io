@@ -4,6 +4,15 @@
 #nav_menu ul {
     list-style-type: none;
 }
+ol.upper-roman {
+    list-style-type: upper-roman;
+}
+ul.square {
+list-style-type: square;
+}
+ol.lower-alpha {
+    list-style-type: lower-alpha;
+}
 #nav_menu ul li {
     float: left;
 }
