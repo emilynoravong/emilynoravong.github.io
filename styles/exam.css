@@ -24,7 +24,7 @@
 }
 header {
     margin: 4em;
-    padding-top: 1em;
+    padding-top: 0;
     border-top: 2px solid darkblue;
 }
 article {
