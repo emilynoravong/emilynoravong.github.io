@@ -31,6 +31,11 @@ article {
 article h1 {
     padding-top: 30px;
 }
+article h2 {
+    margin: 0;
+    padding-left: 0;
+    column-span: all;
+}
 article h3 {
     column-span: all;
 }
