@@ -26,6 +26,7 @@ header {
     margin: 3em;
     padding-top: 1em;
     border-top: 2px solid darkblue;
+    text-align: left;
 }
 article {
     clear: left;
