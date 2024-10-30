@@ -23,8 +23,8 @@
     color: yellow;
 }
 header {
-    padding-top: 5em;
-    border-top: 2px solid darkblue;
+    padding-top: 2em;
+    border-bottom: 2px solid darkblue;
 }
 article {
     clear: left;
