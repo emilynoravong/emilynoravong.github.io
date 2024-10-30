@@ -14,7 +14,6 @@
     color: white;
     font-weight: bold;
     border-right: 2px solid white;
-    border-bottom: 2px solid darkblue;
     margin-bottom: 20px;
 }
 #nav_menu ul li a.current {
@@ -30,7 +29,7 @@ article {
     margin-left: 2em;
 }
 article h1 {
-    padding-top: 50px;
+    padding-top: 30px;
 }
 article h3 {
     column-span: all;
