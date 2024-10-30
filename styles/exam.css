@@ -62,7 +62,7 @@ body {
     padding: 15px 1.5em; 
 }
 header h1 {
-    padding-bottom: 1em;
+    padding-top: 1em;
     border-top: 2px solid darkblue;
 }
 a:focus, a:hover {
