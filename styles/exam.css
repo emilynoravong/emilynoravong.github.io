@@ -76,7 +76,7 @@ body {
 }
 header h1 {
     margin-top: 0;
-    margin-left: 0;
+    margin-left: 1em;
     padding-top: 0;
 }
 a:focus, a:hover {
