@@ -28,13 +28,13 @@ table.second th, table.second td {
 }
 table.third {
     border-collapse: collapse;
-    border: 2px solid purple;
+    border: 2px solid lightgreen;
 }
 table.third th {
-    background-color: salmon;
+    background-color: lightgreen;
 }
-table.third th, table.third td {
+table.third th {
     padding: 0.7em;
-    vertical-align: midddle;
-    border: 2px solid purple;
+    vertical-align: top;
+    border: 2px solid orangered;
 }
