@@ -29,13 +29,13 @@
       /*-----------------------------------------------------------*/
   table.third {
       border-collapse: collapse;
-      border-top: 2px solid orange;
-      border-bottom: 2px solid orange;
+      border-top: 2px solid orangered;
+      border-bottom: 2px solid orangered;
       caption-side: bottom;}
   table.third th{
       background-color: lightgreen;
-      border-top: 2px solid orange;
-      border-bottom: 2px solid orange;}
+      border-top: 2px solid orangered;
+      border-bottom: 2px solid orangered;}
   table.third th, table.third td {
       padding: 0.7em;
       vertical-align: middle;}
